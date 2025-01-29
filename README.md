@@ -1,5 +1,6 @@
-## Hi there, I'm Zeeshan studying Computer Science at McMaster University.
+## Hey I'm Zeeshan 👋
 
+- I'm currently studying Computer Science at McMaster University
 ## 🛠 Languages & Technologies I Know
 - **Programming Languages**: HTML, CSS, JavaScript, Python, C, C++
 - **Other Tools**: Git, VSCode, Basic Linux
