@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there, I'm Zeeshan studying Computer Science at McMaster University.
+
+## 🛠 Languages & Technologies I Know
+- **Programming Languages**: HTML, CSS, JavaScript, Python, C, C++
+- **Other Tools**: Git, VSCode, Basic Linux
 
 <!--
 **zshan-dev/zshan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
