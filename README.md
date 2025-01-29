@@ -1,13 +1,18 @@
-## Hey I'm Zeeshan 👋
+<h1 align="center">👋 Hi, I'm Zeeshan</h1>
 
 - I'm currently studying Computer Science at McMaster University
+
 ## 🛠 Languages & Technologies I Know
-- **Programming Languages**: HTML, CSS, JavaScript, Python, C, C++
-- **Other Tools**: Git, VSCode, Basic Linux
+- **Programming Languages**: C, C++, JavaScript, Python
+- **Web Development**: HTML, CSS, SQL
+- **Other Tools**: Git, VSCode, Linux
 
 ## 📫 Connect With Me
-Feel free to reach out or check out my projects!
-- [LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile/)
+
+## 📊 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
+
 
 <!--
 **zshan-dev/zshan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
