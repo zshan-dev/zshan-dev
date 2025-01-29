@@ -5,7 +5,7 @@
 ## 🛠 Languages & Technologies I Know
 - **Programming Languages**: C, C#, C++ JavaScript, Python
 - **Web Development**: HTML, CSS, SQL
-- **Other Tools**: Git, VSCode, Linux
+- **Other Tools**: Git, Linux
 
 ## 📫 Connect With Me
 [LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
