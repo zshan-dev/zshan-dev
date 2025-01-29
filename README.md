@@ -3,7 +3,7 @@
 - I'm currently studying Computer Science at McMaster University
 
 ## 🛠 Languages & Technologies I Know
-- **Programming Languages**: C, C#, JavaScript, Python
+- **Programming Languages**: C, C#, C++ JavaScript, Python
 - **Web Development**: HTML, CSS, SQL
 - **Other Tools**: Git, VSCode, Linux
 
