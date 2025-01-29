@@ -5,6 +5,9 @@
 - **Programming Languages**: HTML, CSS, JavaScript, Python, C, C++
 - **Other Tools**: Git, VSCode, Basic Linux
 
+## 📫 Connect With Me
+Feel free to reach out or check out my projects!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/zeeshan-bombaywala-8846b6289/)
 <!--
 **zshan-dev/zshan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
