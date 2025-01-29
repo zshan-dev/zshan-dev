@@ -8,10 +8,10 @@
 - **Other Tools**: Git, VSCode, Linux
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile/)
+[LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
 
 ## 📊 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zshan-dev&layout=compact&theme=tokyonight)
 
 
 <!--
