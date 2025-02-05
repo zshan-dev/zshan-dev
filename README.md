@@ -8,7 +8,7 @@
 - **Other Tools**: Git, Linux
 
 ## 📫 Connect With Me
-[LinkedIn Profile]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/zeeshan-bombaywala-8846b6289/))
+[LinkedIn Profile](https://www.linkedin.com/in/zeeshan-bombaywala-8846b6289/)
 
 ## 📊 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zshan-dev&layout=compact&theme=tokyonight)
