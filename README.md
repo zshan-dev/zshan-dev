@@ -4,7 +4,7 @@
 
 ## 🛠 Languages & Technologies I Know
 - **Programming Languages**: C, C#, C++ JavaScript, Python
-- **Web Development**: React js, Node js, HTML, CSS(Tailwind, Bootsrtrap), SQL, PHP
+- **Web Development**: React js, Node js, HTML, CSS(Tailwind, Bootstrap), SQL, PHP
 - **Other Tools**: Git, Linux
 
 ## 📫 Connect With Me
