@@ -4,8 +4,8 @@
 
 ## 🛠 Languages & Technologies I Know
 - **Programming Languages**: C, C#, C++ JavaScript, Python
-- **Web Development**: React js, Node js, HTML, CSS(Tailwind, Bootstrap), SQL, PHP
-- **Other Tools**: Git, Linux
+- **Web Development**: React, Node, HTML, CSS(Tailwind, Bootstrap), SQL, PHP
+- **Other Tools**: Git, Linux, Google Colab, Postman
 
 ## 📫 Connect With Me
 [LinkedIn Profile](https://www.linkedin.com/in/zeeshan-bombaywala-8846b6289/)
