@@ -7,9 +7,6 @@
 - **Web Development**: React, Node, HTML, CSS(Tailwind, Bootstrap), SQL, PHP
 - **Other Tools**: Git, Linux, Google Colab, Postman
 
-## 📫 Connect With Me
-[LinkedIn Profile](https://www.linkedin.com/in/zeeshan-bombaywala-8846b6289/)
-
 ## 📊 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zshan-dev&layout=compact&theme=tokyonight)
 
