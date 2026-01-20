@@ -3,20 +3,17 @@
 ## 🔭 Some Stuff I've Built
 
 **Frontline (AI Medic)**
-
-We built a system that watches live video and listens to patients to figure out injuries instantly.
+> We built a system that watches live video and listens to patients to figure out injuries instantly.
 * **The Goal:** Automate patient triage using multi-modal AI (Vision + Audio).
 * **The Tech:** React, Node.js, Gemini Vision API, Presage.
 
 **RAG AI Agent**
-
-I created a chatbot for Headstarter that uses Retrieval Augmented Generation (RAG) to give accurate responses rather than just hallucinating.
+> I created a chatbot for Headstarter that uses Retrieval Augmented Generation (RAG) to give accurate responses rather than just hallucinating.
 * **The Goal:** Improve customer support accuracy by grounding AI answers in real documentation.
 * **The Tech:** Next.js, OpenAI, Pinecone (Vector DB).
 
 **High-Volume Data Parser**
-
-An efficient algorithm written in C to ingest large CSV datasets with over a million records.
+> An efficient algorithm written in C to ingest large CSV datasets with over a million records.
 * **The Goal:** optimize data retrieval speeds by building a custom in-memory hash index.
 * **The Tech:** C, Pointers, Manual Memory Management.
 ---
