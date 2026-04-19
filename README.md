@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Zeeshan Bombaywala</h1>
+<h1 align="center"> Hi, I'm Zeeshan </h1>
 
 ## 🔭 Some Stuff I've Built
 
